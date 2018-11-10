@@ -2,7 +2,7 @@
 * @Author: Kornraphop K
 * @Date:   2018-11-08 19:55:15
 * @Last Modified by:   Kornraphop K
-* @Last Modified time: 2018-11-09 17:47:00
+* @Last Modified time: 2018-11-09 23:11:28
 */
 
 body {
@@ -18,12 +18,17 @@ a:hover {
 	text-align: justify;
 }
 
+.external-link {
+	margin-bottom: 20px;
+}
+
 .external-link:hover {
 	color: blue;
 }
 
 .external-link-bar {
 	margin: 45px;
+	margin-bottom: 25px;
 }
 
 .container {
