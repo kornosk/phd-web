@@ -1,0 +1,46 @@
+/*
+* @Author: Kornraphop K
+* @Date:   2018-11-08 19:55:15
+* @Last Modified by:   Kornraphop K
+* @Last Modified time: 2018-11-09 23:11:28
+*/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.intro-passage {
+	font-size: 1.25rem;
+	text-align: justify;
+}
+
+.external-link {
+	margin-bottom: 20px;
+}
+
+.external-link:hover {
+	color: blue;
+}
+
+.external-link-bar {
+	margin: 45px;
+	margin-bottom: 25px;
+}
+
+.container {
+	margin-top: 70px;
+	margin-bottom: 45px;
+}
+
+.profile-pic {
+	border-radius: 50%;
+	width: 225px;
+}
+
+.profile-name {
+	margin-bottom: 45px;
+}
