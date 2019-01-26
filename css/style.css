@@ -2,11 +2,14 @@
 * @Author: Kornraphop K
 * @Date:   2018-11-08 19:55:15
 * @Last Modified by:   Kornraphop K
-* @Last Modified time: 2018-11-09 23:11:28
+* @Last Modified time: 2019-01-25 21:57:46
 */
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.75;
+	letter-spacing: -0.14px
 }
 
 a:hover {
@@ -14,7 +17,7 @@ a:hover {
 }
 
 .intro-passage {
-	font-size: 1.25rem;
+	font-size: 1.2rem;
 	text-align: justify;
 }
 
@@ -32,8 +35,9 @@ a:hover {
 }
 
 .container {
-	margin-top: 70px;
+	margin-top: 45px;
 	margin-bottom: 45px;
+	/*margin: 45px;*/
 }
 
 .profile-pic {
