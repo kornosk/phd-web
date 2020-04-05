@@ -7,14 +7,18 @@
 }
 
 .text-secondary {
-	color: $cyan !important;
+	color: $blue !important;
+}
+
+.text-nav {
+	color: $light !important;
 }
 
 a {
-  color: $primary;
+  color: $blue;
   &:hover,
   &:focus,
   &:active {
-    color: darken($primary, 15%);
+    color: darken($blue, 15%);
   }
 }
