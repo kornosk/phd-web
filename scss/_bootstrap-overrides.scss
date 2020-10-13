@@ -22,3 +22,16 @@ a {
     color: darken($blue, 15%);
   }
 }
+
+b {
+    font-weight: 900;
+}
+
+.table {
+  font-size: 1.15rem;
+
+  td {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
