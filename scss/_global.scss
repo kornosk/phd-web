@@ -87,3 +87,19 @@ p.lead {
     color: $blue !important;
   }
 }
+
+.padding-none {
+  padding: 0px;
+}
+
+img.logo {
+    display: inline-block;
+    height: 5rem;
+    text-align: center;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+}
+
+#logo-container {
+  /*height: 5em;*/
+}
